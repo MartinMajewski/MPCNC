@@ -50,6 +50,10 @@ For the length of the stainless steel tubes calculate your sizes over at:
 ## Tools used during assembly
 - Silverline 248844 deburrer 145 mm
 -- Amazon.de https://amzn.to/2Gx8a0r
+- Bessey BAN700 - Ribbon tensioner tool for wooden frame assembly
+-- Amazon.de https://amzn.to/2BKjCSG
+- Wera Kraftform Kompakt 62 - Hand tool set
+-- Amazon.de https://amzn.to/2NiJ8Tv
 
 ## CNC relevant parts
 - Makita RT0700CX2J Router and Trimmer
